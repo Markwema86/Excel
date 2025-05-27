@@ -9,7 +9,7 @@ This repository contains a variety of Excel-based projects and tutorial files de
 ### 📌 Full Excel Projects
 
 - **🚲 Bike Sale - Excel Full Project.xlsx**  
-  A complete sales tracking project analyzing bike sales using formulas, charts, and pivot tables.
+  A complete sales tracking project analyzing bike sales using formulas, charts, pivot tables and dashboard.
 
 - **🏨 Hotel Booking - Full Excel Project.xlsx**  
   An end-to-end Excel dashboard project analyzing hotel bookings, cancellations, revenue, and trends using slicers, charts, pivot tables, and calculated fields.
